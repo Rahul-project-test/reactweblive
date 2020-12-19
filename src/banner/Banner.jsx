@@ -29,9 +29,7 @@ class Banner extends React.Component {
                                     <h2 className="h4 text-light mb-0 mr-4">Our<br/>Awards</h2>
                                     <div className="bg-light opacity-50 mr-4" ></div>
                                 </div>
-                                <div>
-                                    <img width="72" src="img/demo/marketing-seo/hero/award-2.png" alt="Award"/>
-                                </div>
+                                
                          </div>
                                                       
                            
