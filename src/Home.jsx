@@ -1,6 +1,6 @@
 import React from 'react';
 import Banner from './banner/Banner'
-import web from "./images/logoNextra.png";
+import web from "./images/hero-img.png";
 
 function Home() {
   return (

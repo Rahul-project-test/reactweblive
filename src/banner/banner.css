@@ -17,3 +17,4 @@
     position: relative;
     z-index: 5;
 }
+.bg-overlay-content {background: url(../images/digital.jpg);background-position: center;background-size: cover;}

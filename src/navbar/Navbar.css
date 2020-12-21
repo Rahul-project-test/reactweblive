@@ -1,10 +1,14 @@
 .navbar{padding: .5rem 35px;}
 .nav-width-full{background-color: #f8f9fa;}
-.bg-light {background-color: transparent!important;}
+.bg-light {background-color: #105f9f!important;}
 .dropdown-menu{right: 0;left: auto;}
-
+.nav-item .fa-chevron-down{font-size: 12px;}
 @media (min-width:991px)
 {
     .navbar-nav{display: flex;justify-content: space-around;width: 100%;}
-   
+    .navbar-nav .nav-item{position: relative;text-transform: uppercase;}
+    .navbar-nav .nav-item::after{content: '';width: 2px;height: 13px;background: white;position: absolute;top: 52%;
+        right: -4px;transform: translateY(-50%);}   
+    .navbar-light .navbar-nav .nav-link{color: rgb(255 255 255);font-weight: 600;}
+    .navbar-light .navbar-nav .nav-link.active{color: rgb(255 240 0);}
 }

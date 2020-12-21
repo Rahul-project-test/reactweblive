@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.animate-up-down{
+  animation: up-down 4s ease-in-out infinite alternate-reverse both;
+}
+
+@-webkit-keyframes up-down {
+  0%{
+      transform: translateY(10px);
+  }
+  100%{
+      transform: translateY(-10px);
+  }
+}
+
+@keyframes up-down {
+0%{
+    transform: translateY(10px);
+}
+100%{
+    transform: translateY(-10px);
+}
+}

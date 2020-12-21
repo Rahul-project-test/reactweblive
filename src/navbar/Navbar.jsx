@@ -2,8 +2,8 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import './Navbar.css';
 import logo from "../images/logoNextra.png";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faChevronDown } from '@fortawesome/free-solid-svg-icons'
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import { faChevronDown } from '@fortawesome/free-solid-svg-icons'
 import Dropdownm from '../dropdown/Dropdownm';
 function Navbar() {
 return (
@@ -21,17 +21,17 @@ return (
         <div className="collapse navbar-collapse" id="navbarNavDropdown">
         <ul className="navbar-nav">
             <li className="nav-item">
-            <NavLink className="nav-link" aria-current="page" exact to="/">Home <span><FontAwesomeIcon icon={faChevronDown}/></span> </NavLink>
+            <NavLink className="nav-link" aria-current="page" exact to="/">Home </NavLink>
             
             </li>
             <li className="nav-item">
-            <NavLink className="nav-link" exact to="/about">About <span><FontAwesomeIcon icon={faChevronDown}/></span> </NavLink>
+            <NavLink className="nav-link" exact to="/about">About </NavLink>
             </li>
             <li className="nav-item">
-            <NavLink className="nav-link" exact to="/service">Service <span><FontAwesomeIcon icon={faChevronDown}/></span> </NavLink>
+            <NavLink className="nav-link" exact to="/service">Service </NavLink>
             </li>
             <li className="nav-item">
-            <NavLink className="nav-link" exact to="/contact">Contact <span><FontAwesomeIcon icon={faChevronDown}/></span> </NavLink>
+            <NavLink className="nav-link" exact to="/contact">Contact </NavLink>
             </li>
             <li className="nav-item">
             <Dropdownm/>
