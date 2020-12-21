@@ -9,10 +9,12 @@ import About from "./About";
 import Service from "./Service"
 import Contact from './Contact';
 import Navbar from './navbar/Navbar';
+import Topbar from './topbar/Topbar'
 
 function App() {
   return (
    <>
+   <Topbar/>
    <Navbar />
     <Switch>
       <Route exact path ="/" component={Home} />

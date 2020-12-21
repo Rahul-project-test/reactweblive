@@ -2,3 +2,9 @@
 .nav-width-full{background-color: #f8f9fa;}
 .bg-light {background-color: transparent!important;}
 .dropdown-menu{right: 0;left: auto;}
+
+@media (min-width:991px)
+{
+    .navbar-nav{display: flex;justify-content: space-around;width: 100%;}
+   
+}
