@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/reactweblive/static/css/main.3e9a5576.chunk.css",
-    "main.js": "/reactweblive/static/js/main.0d31c1b1.chunk.js",
-    "main.js.map": "/reactweblive/static/js/main.0d31c1b1.chunk.js.map",
+    "main.css": "/reactweblive/static/css/main.60e708c4.chunk.css",
+    "main.js": "/reactweblive/static/js/main.d1799007.chunk.js",
+    "main.js.map": "/reactweblive/static/js/main.d1799007.chunk.js.map",
     "runtime-main.js": "/reactweblive/static/js/runtime-main.0dd464c5.js",
     "runtime-main.js.map": "/reactweblive/static/js/runtime-main.0dd464c5.js.map",
-    "static/css/2.d04fdd5c.chunk.css": "/reactweblive/static/css/2.d04fdd5c.chunk.css",
-    "static/js/2.a2e0bbdc.chunk.js": "/reactweblive/static/js/2.a2e0bbdc.chunk.js",
-    "static/js/2.a2e0bbdc.chunk.js.map": "/reactweblive/static/js/2.a2e0bbdc.chunk.js.map",
+    "static/css/2.6a770793.chunk.css": "/reactweblive/static/css/2.6a770793.chunk.css",
+    "static/js/2.6f40c54a.chunk.js": "/reactweblive/static/js/2.6f40c54a.chunk.js",
+    "static/js/2.6f40c54a.chunk.js.map": "/reactweblive/static/js/2.6f40c54a.chunk.js.map",
     "index.html": "/reactweblive/index.html",
-    "precache-manifest.002ee3e37b914e02a9d2e220766d2f9a.js": "/reactweblive/precache-manifest.002ee3e37b914e02a9d2e220766d2f9a.js",
+    "precache-manifest.4db73d950b328f91b0f1dc048a1d8413.js": "/reactweblive/precache-manifest.4db73d950b328f91b0f1dc048a1d8413.js",
     "service-worker.js": "/reactweblive/service-worker.js",
-    "static/css/2.d04fdd5c.chunk.css.map": "/reactweblive/static/css/2.d04fdd5c.chunk.css.map",
-    "static/css/main.3e9a5576.chunk.css.map": "/reactweblive/static/css/main.3e9a5576.chunk.css.map",
-    "static/js/2.a2e0bbdc.chunk.js.LICENSE.txt": "/reactweblive/static/js/2.a2e0bbdc.chunk.js.LICENSE.txt",
+    "static/css/2.6a770793.chunk.css.map": "/reactweblive/static/css/2.6a770793.chunk.css.map",
+    "static/css/main.60e708c4.chunk.css.map": "/reactweblive/static/css/main.60e708c4.chunk.css.map",
+    "static/js/2.6f40c54a.chunk.js.LICENSE.txt": "/reactweblive/static/js/2.6f40c54a.chunk.js.LICENSE.txt",
     "static/media/logoNextra.png": "/reactweblive/static/media/logoNextra.545dbe14.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0dd464c5.js",
-    "static/css/2.d04fdd5c.chunk.css",
-    "static/js/2.a2e0bbdc.chunk.js",
-    "static/css/main.3e9a5576.chunk.css",
-    "static/js/main.0d31c1b1.chunk.js"
+    "static/css/2.6a770793.chunk.css",
+    "static/js/2.6f40c54a.chunk.js",
+    "static/css/main.60e708c4.chunk.css",
+    "static/js/main.d1799007.chunk.js"
   ]
 }
